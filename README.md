@@ -1,5 +1,5 @@
 # Hi, I'm Willy, thanks for visiting my profile!
-I’m a passionate software development student at Epitech, currently seeking a work-study opportunity and available immediately.<br><br>
+I’m a passionate software development student at Epitech, currently seeking a work-study opportunity and available immediately.<br>
 I enjoy coding, solving problems, exploring new technologies, and building projects with real-world impact.<br>
 Outside of tech, I’m into learning japanese, and brass bands <br><br>
 
