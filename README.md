@@ -69,7 +69,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
   <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif"         width="100"/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 </p>
 
 <!--
@@ -78,16 +78,3 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 [![](https://visitcount.itsvg.in/api?id=willyksv&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💫 About Me:
-g
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=willyksv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
