@@ -22,7 +22,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/react-%230db7ed?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-00bd81.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) 
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-09de85?style=for-the-badge&logo=nuxt&logoColor=white)
 
@@ -112,7 +112,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-![React](https://img.shields.io/badge/react-%230db7ed?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/react-%230db7ed?style=for-the-badge&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%2361DAFB.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
