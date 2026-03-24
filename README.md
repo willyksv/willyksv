@@ -4,8 +4,6 @@ I’m a passionate software development student at Epitech, currently seeking a 
 I enjoy coding, solving problems, exploring new technologies, and building projects with real-world impact.<br>
 Outside of tech, I’m into learning japanese, and brass bands <br><br>
 
-
-## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willy-keosouvanh-432a0b209/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keosouvanhwilly2@gmail.com) 
 
