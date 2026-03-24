@@ -14,7 +14,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br><br>
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false"  height="170"/>&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
-  <div class="tenor-gif-embed" data-postid="23160160" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/baby-capybara-capybara-eating-something-gif-23160160">Baby Capybara Capybara Sticker</a>from <a href="https://tenor.com/search/baby+capybara-stickers">Baby Capybara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 <!--
