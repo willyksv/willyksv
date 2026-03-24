@@ -13,7 +13,8 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)<br> 
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y256Nzh0MDc5eHdwMXdoYnRwMGx1dmp6aXJpM2swY3FlNDB2Z3J4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sbW2AUZLt98WoenLSl/giphy.gif" height="100"/><br> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
