@@ -68,14 +68,16 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 ## GitHub Stats
 
-
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="240px"/>
-
-
-
   <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif" height="170"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="170"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif" height="100"/>
+</p>
+
+
 
 <!--
 <p> 
