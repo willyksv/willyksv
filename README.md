@@ -2,10 +2,10 @@
 Hi, thanks for visiting my profile!<br>
 I’m a passionate software development student at Epitech, currently seeking a work-study opportunity.<br>
 I enjoy coding, solving problems, exploring new technologies, and building projects with real-world impact.<br>
-Outside of tech, I’m into learning japanese, and brass bands <br><br>
+Outside of tech, I’m into learning japanese, and brass bands <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willy-keosouvanh-432a0b209/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keosouvanhwilly2@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keosouvanhwilly2@gmail.com)<br><br>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif"         width="100"/>
 
 ## Tech Stack
