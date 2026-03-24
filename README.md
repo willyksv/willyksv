@@ -14,7 +14,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false)<br/>
 
-<--!
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 ---
