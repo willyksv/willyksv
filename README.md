@@ -75,7 +75,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 <!--
 -->
 
-[![](https://visitcount.itsvg.in/api?id=willyksv&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=willyksv&icon=1&color=white)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
