@@ -13,7 +13,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br><br>
 ## 📊 GitHub Stats
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" width="48%" heigh="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false" width="48%" heigh="170"/>
 </p>
 <!--
