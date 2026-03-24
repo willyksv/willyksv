@@ -54,6 +54,12 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 
 
+
+![NodeJS](https://img.shields.io/badge/node.js-4cb051?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-09de85?style=for-the-badge&logo=nuxt&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-00bd81.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-32adcf.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)
@@ -69,9 +75,3 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 
 
-
-![NodeJS](https://img.shields.io/badge/node.js-4cb051?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-00bd81.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-09de85?style=for-the-badge&logo=nuxt&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
