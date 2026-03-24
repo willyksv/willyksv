@@ -65,23 +65,22 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 
 ## GitHub Stats
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif"         width="100"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-</p>
-
-<!--
--->
-
-[![](https://visitcount.itsvg.in/api?id=willyksv&icon=1&color=white)](https://visitcount.itsvg.in)
-
-<img src="https://camo.githubusercontent.com/2ce170bcf5cfbf56a2c62970cffe17beccf51565731466b0f6773dd7f421dcf2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d566963746f723334313130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="profile views" data-canonical-src="https://komarev.com/ghpvc/?username=Victor34110&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="170"/>
 </p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif"         width="100"/>
+<!--
+
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+</p>
+
+-->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
