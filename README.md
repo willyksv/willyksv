@@ -140,9 +140,4 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## GitHub Stats
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" height="170"/>&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false" height="170"/> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif" width="100"/>
-</p>
+
