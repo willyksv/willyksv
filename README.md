@@ -7,11 +7,11 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willy-keosouvanh-432a0b209/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keosouvanhwilly2@gmail.com)
 
-<p>
+
 ## Tech Stack
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNsb29sYTVudWVnZGdmMXpja3Z2dnNyOHN4M3VqcTJ6YnhpYjN1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8H1SPh0ysU9EoXMzVj/giphy.gif" height="100"/><br> 
   
-</p>
+
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white) 
