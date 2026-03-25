@@ -8,7 +8,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keosouvanhwilly2@gmail.com)
 
 
-## Tech Stack <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNsb29sYTVudWVnZGdmMXpja3Z2dnNyOHN4M3VqcTJ6YnhpYjN1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8H1SPh0ysU9EoXMzVj/giphy.gif" height="100"/><br> 
+## Tech Stack <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNsb29sYTVudWVnZGdmMXpja3Z2dnNyOHN4M3VqcTJ6YnhpYjN1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8H1SPh0ysU9EoXMzVj/giphy.gif" height="120"/><br> 
   
 
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
