@@ -10,9 +10,8 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 ## Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwzM29pY2pnY2o0djlsdjc3N3dhOW8wNmdpd3hmbHdlNmcxazF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Booo2Bo8v1B3g8UMB2/giphy.gif" height="60"/><br> 
 
-## Tech Stack 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwzM29pY2pnY2o0djlsdjc3N3dhOW8wNmdpd3hmbHdlNmcxazF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Booo2Bo8v1B3g8UMB2/giphy.gif" height="60" style="margin-top:10px;"/>
-<br>
+## Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwzM29pY2pnY2o0djlsdjc3N3dhOW8wNmdpd3hmbHdlNmcxazF1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Booo2Bo8v1B3g8UMB2/giphy.gif" height="60" style="margin-top:10px;"/>
+
 
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
