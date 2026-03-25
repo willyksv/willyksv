@@ -44,8 +44,8 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 ## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>&nbsp;
-  <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>&nbsp;
-   <img src="https://media.giphy.com/media/x78IXqC8CZt18iPAZ6/giphy.gif" height="100"/>
+  <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>
+  <img src="https://media.giphy.com/media/x78IXqC8CZt18iPAZ6/giphy.gif" height="60"/>
 <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="170"/>
 -->
