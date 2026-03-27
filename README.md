@@ -43,8 +43,8 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
   <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>&nbsp;
 <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="170"/>
 -->
@@ -52,7 +52,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 <!--
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 </p>
