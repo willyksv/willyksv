@@ -43,7 +43,7 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
   <img src="https://streak-stats.demolab.com?user=willyksv&theme=transparent&hide_border=false" height="170"/>
 <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&layout=compact" height="170"/>
@@ -52,12 +52,12 @@ Outside of tech, I’m into learning japanese, and brass bands <br>
 
 <!--
 <p> 
-  <img src="https://media.giphy.com/media/x78IXqC8CZt18iPAZ6/giphy.gif" height="60"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"  height="170"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=willyksv&theme=transparent&hide_border=false&show_icons=true" height="170"/>&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=willyksv&theme=transparent&hide_border=false"  height="170"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyksv&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 </p>
 
+  <img src="https://media.giphy.com/media/x78IXqC8CZt18iPAZ6/giphy.gif" height="60"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y256Nzh0MDc5eHdwMXdoYnRwMGx1dmp6aXJpM2swY3FlNDB2Z3J4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sbW2AUZLt98WoenLSl/giphy.gif" height="100"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyd3doNTN2b2Njc3VoNDl0YWZjMTFzaWZoYmZqeWFqeDRwZjJ0cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BuCOOfCWlO1QJ6AaN8/giphy.gif" height="100"/>
   <img src="" height="100"/>
